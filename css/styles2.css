@@ -1,0 +1,90 @@
+.hero{
+    background-color: #00c4ff;
+    height: 630px;   
+    text-align: center;
+}
+.hero p{
+    line-height: 30px;
+    
+}
+.Hello{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.resume{    
+    height: 600px;  
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+}
+.projects{
+    display:block;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    height: 600px;  
+}
+.projects h1{
+    padding: 20px;
+}
+.profpic{
+    border-radius: 100px;
+
+}
+.ed{
+
+}
+.skills{
+    text-align: right;
+}
+.about{    
+    height: 600px;  
+    text-align: center;
+    
+}
+.about h1{
+   padding: 20px;
+}
+.items{
+    padding: 5%;
+
+}
+.contact{
+    background-color: #30a2ff;
+    height: 150px;  
+    text-align: center;
+}
+.contact-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact a{
+    padding: 10px;
+    text-decoration: none;
+    color:teal;
+
+}
+
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+hr{
+    width: 4%;
+    border: none;
+    height: 5px;
+    color: gray;   
+    border-style: dotted none none none;
+    margin: 50px auto;
+
+}
+h1{
+    margin-top: 0;
+}
+h2{
+    margin-top: 0;
+}
+h3{
+    margin-top: 0;
+}
